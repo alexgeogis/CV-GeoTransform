@@ -1,0 +1,16 @@
+[general]
+name=CV-GeoTransform
+qgisMinimumVersion=3.0
+description=Geodetic transformation and cartographic toolbox for Cape Verde: 7-parameter Bursa-Wolf transformations (Hayford UTM to Lambert EPSG:4826), geoid height handling (EGM2008), direct raster georeferencing, and ITRF96 epoch kinematic reduction.
+version=1.0.0
+author=Alex J. B. Andrade
+email=alexgeogis@gmail.com
+about=Geodetic plugin for Cape Verde providing coordinate transformations between Datum Hayford UTM (Zones 26N/27N) and Lambert Cape Verde (EPSG:4826), altimetric conversions (H + N = h via EGM2008), direct image georeferencing, and ITRF96 epoch kinematic reduction (Nubian plate motion).
+tracker=https://github.com/alexgeogis/CV-GeoTransform/issues
+repository=https://github.com/alexgeogis/CV-GeoTransform
+homepage=https://github.com/alexgeogis/CV-GeoTransform
+tags=geodesy, cape verde, bursa-wolf, lambert, egm2008, epoch reduction, igp, insulae
+category=Vector
+icon=icon.png
+experimental=False
+deprecated=False
